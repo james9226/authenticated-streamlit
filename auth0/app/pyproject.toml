@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "streamlit-app"
+version = "1.0.0"
+description = ""
+authors = ["James Neale <42097394+james9226@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.9.7 || >3.9.7,<4.0"
+streamlit = "^1.20.0"
+numpy = "^1.24.2"
+pandas = "^1.5.3"
+openpyxl = "^3.1.1"
+django-environ = "^0.10.0"
+environ = "^1.0"
+Markdown = "^3.4.1"
+matplotlib = "^3.7.1"
+plotly = "^5.13.1"
+python-dotenv = "^1.0.0"
+htmldate = "^1.4.1"
+datefinder = "^0.7.3"
